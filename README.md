@@ -1,5 +1,2 @@
-## Hi there 👋
-
-<!--
-Just lurkin' around!
--->
+Hi!
+Just lurkin' around
